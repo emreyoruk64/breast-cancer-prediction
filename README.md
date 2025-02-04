@@ -1,4 +1,4 @@
-# Breast Cancer Detection Model
+# Breast Cancer Prediction Model
 
 This project uses **logistic regression** to predict whether a tumor is **benign or malignant** based on medical measurements. The dataset consists of **various medical features** used in breast cancer diagnosis.
 
